@@ -5,4 +5,4 @@ This is a GUI application built for getting the access of temperature of any cit
 
 ## For this application to run on your machine:
 1. Require Python 3.
-2. Import pip install tkinter and requests module.
+2. Install tkinter and requests module.
